@@ -1,6 +1,7 @@
 
 # Contributors
 sardor Uchqunov
+- [maaz ahmed] (https://github.com/maazahmed17)
 - [Yogendra K Narmada] (https://github.com/lazydeveloper9)
 - [Sneha Bichkunde] (https://github.com/snehabichkunde)
 - [Siddharth Sahu] (https://github.com/sidhacks) 
